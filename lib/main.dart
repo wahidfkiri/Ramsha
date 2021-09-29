@@ -18,6 +18,7 @@ class MyApp extends StatelessWidget {
         '/homePage' : (context)=>HomeWithSidebar(),
         '/loginPage' : (context)=>LoginPage(),
         '/SignUpPage' : (context)=>SignUpPage(),
+        //
       },
     );
   }
